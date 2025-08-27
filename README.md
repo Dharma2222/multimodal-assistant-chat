@@ -190,18 +190,17 @@ Serverless endpoints that interact with the OpenAI API:
 
 > Adjust exact filenames/paths to your framework (Next.js, Express, etc.).
 
----
 
-# Extended Project Scope
 
-**Currently**
+
+
 
 * **Frontend:** React + TypeScript
 * **Backend:** Next.js API routes (serverless)
 * **AI Core:** OpenAI Assistants API (text + vision)
 * **Optional Add-on:** Python backend / Code Interpreter
 
-**Now Adding**
+
 
 * **Splunk:** centralized logging, monitoring, usage analytics
 * **Selenium:** browser automation for web UI + chat flows
